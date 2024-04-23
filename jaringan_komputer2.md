@@ -36,3 +36,11 @@ S1(config-if-range)#shutdown
 ```
 
 Langkah ini menonaktifkan port-range f0/1 hingga f0/5 dan port g0/2, yang tidak akan digunakan untuk koneksi jaringan.
+
+
+Catatan Sementara:
+
+switchport mode trunk = digunakan untuk network device
+
+channel-group 1 mode active/passive (LACP, active menerima | passive tidak)
+channel-group 3 mode desirable/auto (PAGP)
