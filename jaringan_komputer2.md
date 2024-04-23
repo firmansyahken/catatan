@@ -39,6 +39,7 @@ Langkah ini menonaktifkan port-range f0/1 hingga f0/5 dan port g0/2, yang tidak 
 
 
 Catatan Sementara:
+referensi: https://itexamanswers.net/6-4-1-packet-tracer-implement-etherchannel-instructions-answer.html
 
 switchport mode trunk = digunakan untuk network device
 
